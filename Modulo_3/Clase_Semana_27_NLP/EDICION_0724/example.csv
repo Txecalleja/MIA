@@ -1,0 +1,28 @@
+,Archivo,Término clínico,Tipo, Código,Código
+0,S1130-05582007000500007-1.txt,, Tumoración mandibular                             ,, Diagnóstico 
+1,S1130-05582007000500007-1.txt,, Tumor odontogénico epitelial calcificante        ,, Diagnóstico 
+2,S1130-05582007000500007-1.txt,, Hemimandibulectomía derecha                       ,, Procedimiento
+3,S1130-05582007000500007-1.txt,, Biopsia                                           ,, Procedimiento
+4,S1130-05582007000500007-1.txt,, VIH positivo                                      ,, Diagnóstico 
+5,S1130-05582007000500007-1.txt,, VHC positivo                                      ,, Diagnóstico 
+6,S1130-01082006000100014-1.txt,, Enfermedad de Crohn                         ,, Diagnóstico  
+7,S1130-01082006000100014-1.txt,, Afectación ileal y de la válvula ileocecal ,, Diagnóstico  
+8,S1130-01082006000100014-1.txt,, Meningitis por Listeria                     ,, Diagnóstico  
+9,S1130-01082006000100014-1.txt,, Peritonitis intestinal                       ,, Diagnóstico  
+10,S1130-01082006000100014-1.txt,, Resección íleo-cecal                        ,, Procedimiento
+11,S1130-01082006000100014-1.txt,, Ileostomía terminal                         ,, Procedimiento
+12,S1130-01082006000100014-1.txt,, Fístula mucosa de colon ascendente          ,, Procedimiento
+13,S1130-01082006000100014-1.txt,, Tratamiento con mesalazina                  ,, Procedimiento
+14,S1130-01082006000100014-1.txt,, Tratamiento con azatioprina                 ,, Procedimiento
+15,S1130-01082006000100014-1.txt,, Tratamiento antibiótico                     ,, Procedimiento
+16,S1130-01082006000100014-1.txt,, Administración de infliximab                ,, Procedimiento
+17,S1130-01082008001000010-1.txt,, Ictericia mucocutánea indolora                         ,, Diagnóstico   
+18,S1130-01082008001000010-1.txt,, Coluria                                                 ,, Diagnóstico   
+19,S1130-01082008001000010-1.txt,, Prurito generalizado                                    ,, Diagnóstico   
+20,S1130-01082008001000010-1.txt,, Tuberculosis tratada                                    ,, Diagnóstico   
+21,S1130-01082008001000010-1.txt,, Hipercolesterolemia                                     ,, Diagnóstico   
+22,S1130-01082008001000010-1.txt,, Pancreatitis autoinmune                                 ,, Diagnóstico   
+23,S1130-01082008001000010-1.txt,, Drenaje biliar percutáneo                               ,, Procedimiento  
+24,S1130-01082008001000010-1.txt,, Colangiopancreatografía retrógrada endoscópica (CPRE) ,, Procedimiento  
+25,S1130-01082008001000010-1.txt,, Punción-aspiración con aguja fina                       ,, Procedimiento  
+26,S1130-01082008001000010-1.txt,, Endoprótesis plástica                                   ,, Procedimiento  
